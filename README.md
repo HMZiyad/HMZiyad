@@ -8,7 +8,7 @@ I am a **Software Engineer** and **AI Specialist** dedicated to building *intell
 
 My current focus is on **Generative AI** and **RAG Pipelines**, leveraging Large Language Models to solve complex real-world problems (like in my project `Medhabi.AI`). I maintain a strong interest in competitive programming and algorithmic optimization.
 
-> **Current Role:** AI Developer at **Spark Tech Agency** (Betopia Groups).
+> **Current Role:** AI Developer at **Spark Tech Agency** (Betopia Group).
 
 - **Learning Focus:** Advanced System Design and Cloud Native Architecture.
 - **Current Projects:** Developing AI-powered EdTech solutions.
